@@ -2,10 +2,7 @@ fx_version "cerulean"
 game "gta5"
 lua54 "yes"
 
-files {
-    "data/config.lua",
-    "postals.json"
-}
+file "postals.json"
 
 client_script "client/main.lua"
 
